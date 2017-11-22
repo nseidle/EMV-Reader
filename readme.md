@@ -1,9 +1,13 @@
 EMV Reader Example for KYT-79xx
 =======
 
+![EMV reader connected to Arduino](https://github.com/nseidle/EMV-Reader/blob/master/EMV%20KYT-7916%20Chip%20Reader-Top.jpg)
+
 The KYT-7916 Euro-Mastercard-Visa (EMV) reader can read magnetic strips as well as interface to the 'chip' in most modern credit cards. It is approximately $150-$250. It **can not** duplicate or modify the chip. 
 
 This EMV reader is designed to work with ATMs. I needed it for some research into chipped cards so I hope others can benefit from it.
+
+![EMV reader connected to Arduino](https://github.com/nseidle/EMV-Reader/blob/master/EMV%20KYT-7916%20Chip%20Reader-Bottom.jpg)
 
 The reader has a 5 pin cable with the following connections to a microcontroller:  
 
